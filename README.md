@@ -8,7 +8,7 @@ after that rebuild and you are good to go.
 
 Features
 Anti VM
-Anti WebSniffer
+Anti WebSniffer - Still need to do
 Random MD5
 Payload Url encryption with a randomly generated key
 Obfuscation
