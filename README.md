@@ -12,5 +12,7 @@ Drop file in Appdata temp or local appdata
 
 
 Warning
-This was made for educational purposes and is not meant for Malicious use and illegal activites done by a user of Abaddon dropper has nothing to do with me and is not my responsibility this was made for fun and to show people how file droppers can decrease scantime detections
+This was made for educational purposes and is not meant for Malicious use.
+Any illegal activites caused by a user of Abaddon dropper has nothing to do with me and is not my responsibility,
+This was made for fun and to show people how file droppers can decrease scantime detections
 ```
