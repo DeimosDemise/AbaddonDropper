@@ -2,7 +2,7 @@
 Abaddon Dropper 
 How to use
 You can either used the precompiled version in the release section or compile it yourself via the source.
-If you want to make changed so the stub code after making the changes build it and drag the new stub
+If you want to make changes to the stub code after compiling it drag the new stub
 into the stub folder in visual studios and change the build action to embedded resource
 after that rebuild and you are good to go.
 
