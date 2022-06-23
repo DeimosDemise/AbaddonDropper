@@ -16,6 +16,9 @@ Uac Bypass
 Downloads & runs a payload of your choosing (No shit)
 Drop file in Appdata temp or local appdata
 
+Credits
+LoGIC.Net for some Protection methods https://github.com/AnErrupTion
+Aura.Net For some protection methods https://github.com/loomisntreal
 
 Warning
 This was made for educational purposes and is not meant for Malicious use.
